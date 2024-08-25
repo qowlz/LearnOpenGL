@@ -88,4 +88,7 @@ Temporary Items
 # binary files
 /bin
 
+# build files
+/build
+
 # End of https://www.toptal.com/developers/gitignore/api/c++,cmake,macos
